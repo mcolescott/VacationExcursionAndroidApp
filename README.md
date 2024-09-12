@@ -1,7 +1,16 @@
-
-
 Title: Vacations and Excursions App\
-Purpose: To allow users to track their vacations and associated excursions, receive notifications, and share their vacations with others.\
+Purpose: To allow users to track their vacations and associated excursions, receive notifications, and share their vacations with others.
+
+## APK generation instructions
+1. Open in Android Studio
+2. Go to Build, then click "Generate Signed App Bundle / APK…"
+3. Choose the "APK" radio button, then click Next.
+4. Click "Create new…" under "Key store path."
+5. Choose a location for the "Key store path:" then input a password in the fields listed. Put your name in the Certificate. Then click "OK."
+6. With the KeyStore and key alias created, click next.
+7. Hold Shift and click on both debug and release, then click Create.
+8. You will see a notification which states the builds are completed. 
+9. Run and install the APK in an Android emulator.
 
 ## App usage instructions
 1. Once running the app in the emulator, click the "Enter" button in the middle of the home screen.
