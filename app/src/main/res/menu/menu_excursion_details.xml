@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Save excursion"
+        android:id="@+id/excursion_save" />
+    <item android:title="Delete excursion"
+        android:id="@+id/excursion_delete" />
+    <item android:title="Notify"
+        android:id="@+id/excursion_notify"/>
+</menu>

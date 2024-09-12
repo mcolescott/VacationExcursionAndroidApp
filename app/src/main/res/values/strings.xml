@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VacationApp</string>
+    <string name="main_welcome_text">Welcome to the Vacations and Excursions app!</string>
+    <string name="floating_action_button_add_vacation">Button to move to add vacation screen</string>
+    <string name="floating_action_button_add_excursion">Add excursion</string>
+    <string name="add_vacation_final">Add</string>
+    <string name="vacation_edit_finish_button">Done</string>
+    <string name="associated_excursions_text_view">Associated excursions:</string>
+</resources>
